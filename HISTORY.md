@@ -1,3 +1,4 @@
+<!--Line-->
 1. 분류문제 [클릭] (https://github.com/LEEHYOTAE/LHT/blob/main/JAIBC_2022481013_%EC%9D%B4%ED%9A%A8%ED%83%9C_Classification_drug.ipynb)
 2. 회귀문제 [클릭] (https://github.com/LEEHYOTAE/LHT/blob/main/JAIBC_2022481013_%EC%9D%B4%ED%9A%A8%ED%83%9C_Regression_possum.ipynb)
 3. 자연어문제 [클릭] (https://github.com/LEEHYOTAE/LHT/blob/main/NLP_2022481013_LEEHYOTAE.ipynb)
